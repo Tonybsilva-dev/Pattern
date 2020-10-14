@@ -21,7 +21,7 @@ Before creating an issue, please do the following:
 
 - Check the [Developer Documentation]() to make sure the behavior you are reporting is really a bug, not a feature.
 - Check the [existing issues]() to make sure you are not duplicating somebody&#39;s work.
-- Verify that the issue you are about to report relates to the "Start Up Name" Developer Ecosystem and is not a system bug (for game bugs please go [here]()).
+- Verify that the issue you are about to report relates to the "Start Up Name" Developer Ecosystem and is not a system bug (for system bugs please go [here]()).
 
 If you&#39;re sure that the problem you&#39;re experiencing is caused by a bug, follow the recommendations below to file a new issue in a Github issue tracker.
 
